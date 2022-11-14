@@ -48,7 +48,7 @@
 <a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/IOR-black?style=for-the-badge&logo=github" alt="IRO" /> </a>
 
 
-
+Mᴀɴᴀɢᴇᴅ Bʏ: [♡](https://t.me/Pikk_u)
 
 
 
