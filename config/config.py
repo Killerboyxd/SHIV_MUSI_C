@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹ 𝗜𝗥𝗢 ✘ 𝗠𝘂𝘀𝗶𝗰♡˼")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹ 𝗦𝗛𝗜𝗩 ✘ 𝗠𝘂𝘀𝗶𝗰♡˼")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "5518757491").split()))
 
@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Iro09/IRO_MUSI_C")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iro_bot_support")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/iro_x_support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RONNY_KI_DUNIYA")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/do_dil_ek_jaan143)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "180"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
@@ -43,8 +43,8 @@ PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "5"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "3"))
 
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "7c3bcc508cf841d0923869cbbfde478d")
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "1c30d5e00cf64a70b8be2f6064ef90a5")
 
 VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "5"))
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "50"))
@@ -74,11 +74,11 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/b4260864a06100776da30.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/c4c74ca853dbe426b5075.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/b4260864a06100776da30.jpg",
+    "https://telegra.ph/file/1ba7c540462dc0c6d13cd.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/24360a3112a467dfbc6c5.jpg"
