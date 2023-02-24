@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ˹ 𝗜𝗥𝗢 ✘ 𝗠𝘂𝘀𝗶𝗰♡˼ 」──
+    ──「 ˹ 𝗦𝗛𝗜𝗩 ✘ 𝗠𝘂𝘀𝗶𝗰♡˼ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/e683ca1f9d1f091bc7f1d.jpg">
+  <img src="https://telegra.ph/file/c4c74ca853dbe426b5075.jpg">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/8007c78e85990a3cf8a09.jpg">
+  <img src="https://telegra.ph/file/1ba7c540462dc0c6d13cd.jpg">
 </p>
 
 <h3 align="center">
@@ -30,11 +30,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/iro_x_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/iro_bot_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/do_dil_ek_jaan143"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -48,7 +48,7 @@
 <a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/IOR-black?style=for-the-badge&logo=github" alt="IRO" /> </a>
 
 
-Mᴀɴᴀɢᴇᴅ Bʏ: [♡](https://t.me/Pikk_u)
+Mᴀɴᴀɢᴇᴅ Bʏ: [♡](https://t.me/ll_SABKA_BHAI_KILLER_ll)
 
 
 
